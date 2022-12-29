@@ -1,0 +1,12 @@
+{
+    "name": "stereo-express/tonic",
+    "description": "Features a replica of the Gin theme with additional features.",
+    "type": "drupal-custom-themes",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Marc-Olivier Fortin",
+            "email": "info@marcolivierfortin.com"
+        }
+    ]
+}

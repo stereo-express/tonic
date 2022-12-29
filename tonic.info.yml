@@ -1,0 +1,22 @@
+type: theme
+name: 'Tonic'
+description: 'Features a replica of the Gin theme with additional features.'
+package: 'Stereo Express'
+
+core_version_requirement: ^9.0 || ^10.0
+php: 8.1
+
+base theme: gin
+
+regions:
+  header: 'Header'
+  pre_content: 'Pre-content'
+  breadcrumb: 'Breadcrumb'
+  highlighted: 'Highlighted'
+  help: 'Help'
+  content: 'Content'
+  page_top: 'Page top'
+  page_bottom: 'Page bottom'
+  sidebar_first: 'First sidebar'
+regions_hidden:
+  - sidebar_first

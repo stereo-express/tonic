@@ -1,0 +1,73 @@
+# $Id$
+#
+# French translation of Drupal (general)
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+# Generated from files:
+#  tonic.info.yml: n/a
+#  config/optional/block.block.tonic_breadcrumbs.yml: n/a
+#  config/optional/block.block.tonic_content.yml: n/a
+#  config/optional/block.block.tonic_help.yml: n/a
+#  config/optional/block.block.tonic_local_actions.yml: n/a
+#  config/optional/block.block.tonic_messages.yml: n/a
+#  config/optional/block.block.tonic_page_title.yml: n/a
+#  config/optional/block.block.tonic_primary_local_tasks.yml: n/a
+#  config/optional/block.block.tonic_secondary_local_tasks.yml: n/a
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2022-12-29 16:15-0500\n"
+"PO-Revision-Date: 2022-12-29 16:15-0500\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: tonic.info.yml:0
+msgid "Tonic"
+msgstr "Tonic"
+
+#: tonic.info.yml:0
+msgid "Features a replica of the Gin theme with additional features."
+msgstr ""
+"Met en vedette une réplique du thème Gin avec des fonctionnalités "
+"additionnelles."
+
+#: tonic.info.yml:0
+msgid "Stereo Express"
+msgstr "Stereo Express"
+
+#: config/optional/block.block.tonic_breadcrumbs.yml:0
+msgid "Breadcrumbs"
+msgstr "Fils d'ariane"
+
+#: config/optional/block.block.tonic_content.yml:0
+msgid "Main page content"
+msgstr "Contenu de la page principale"
+
+#: config/optional/block.block.tonic_help.yml:0
+msgid "Help"
+msgstr "Aide"
+
+#: config/optional/block.block.tonic_local_actions.yml:0
+msgid "Primary admin actions"
+msgstr "Actions d'administration principales"
+
+#: config/optional/block.block.tonic_messages.yml:0
+msgid "Status messages"
+msgstr "Messages de statut"
+
+#: config/optional/block.block.tonic_page_title.yml:0
+msgid "Page title"
+msgstr "Titre de page"
+
+#: config/optional/block.block.tonic_primary_local_tasks.yml:0
+msgid "Primary tabs"
+msgstr "Onglets principaux"
+
+#: config/optional/block.block.tonic_secondary_local_tasks.yml:0
+msgid "Secondary tabs"
+msgstr "Onglets secondaires"
